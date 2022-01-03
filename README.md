@@ -1,2 +1,2 @@
 # Slider_Puzzle
-Analysis of different search algorithms such as BFS, DFS, Iterative Deepening DFS, Bidirectional BFS, Best-First Search, and A* using the Manhatten Distance between the current state of the slider puzzle to final solution state of the slider puzzle. 
+Analysis of different search algorithms on the solution speed of 8-Puzzle. The file compares search algorithms such as BFS, DFS, Iterative Deepening DFS, Bidirectional BFS, Best-First Search, and A* using the Manhatten Distance between the current state of the slider puzzle to final solution state of the slider puzzle. Statistics for the various searches include number of nodes searched, total time until the solution state is reached, and amount of time required to compute a single node. 
